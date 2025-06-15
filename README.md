@@ -86,7 +86,6 @@ Provide drill-through capability and raw data exploration.
 - **Power BI Desktop** – Dashboard creation  
 - **DAX & Data Modeling** – Dynamic measures and relationships  
 - **Bookmarks, Tooltips, Buttons** – Enhanced interactivity  
-- **Power Automate (Optional)** – Export functionality integration
 
 ---
 
