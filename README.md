@@ -1,7 +1,5 @@
 # 🚕 Uber Trip Analysis Dashboard | Power BI
 
-![Dashboard Overview](UB1.png)
-
 ## 📌 Project Overview
 
 This Power BI project analyzes Uber trip data to uncover booking trends, revenue performance, and trip efficiency. With interactive dashboards and dynamic visuals, the solution enables stakeholders to make data-driven decisions around pricing, operations, and customer experience.
@@ -11,6 +9,8 @@ This Power BI project analyzes Uber trip data to uncover booking trends, revenue
 ## 📊 Dashboard Breakdown
 
 ### 🧭 Dashboard 1: Overview Analysis
+
+![Dashboard Overview](UB1.png)
 
 **Objective:**  
 Summarize key performance metrics, booking behavior, and trip efficiency.
