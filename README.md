@@ -69,7 +69,7 @@ All visuals update based on selected measure for consistent insights.
 
 ### 📋 Dashboard 3: Details Tab
 
-![Details Tab Screenshot](UB3.png)
+![Details Tab Screenshot](UB33.png)
 
 **Objective:**  
 Provide drill-through capability and raw data exploration.
